@@ -33,7 +33,7 @@ Para ejecutar este cuaderno y aplicar el proceso de limpieza y preprocesamiento 
 
 ## Contacto
 
-Si tienes preguntas o necesitas más información, puedes contactarme a través de [correo electrónico](adolfo.fgp@gmail.com), [LinkedIn](https://www.linkedin.com/in/adolfofgp/) o [GitHub](github.com/AdolfoFGP).
+Si tienes preguntas o necesitas más información, puedes contactarme a través de [correo electrónico](mailto:adolfo.fgp@gmail.com), [LinkedIn](https://www.linkedin.com/in/adolfofgp/) o [GitHub](https://github.com/AdolfoFGP).
 
 ¡Espero que este cuaderno sea útil para tu proyecto de limpieza y preprocesamiento de datos!
 
